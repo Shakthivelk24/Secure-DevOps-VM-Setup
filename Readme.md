@@ -140,7 +140,7 @@ sudo apt install -y curl wget git unzip \
 Java is required to run Jenkins.
 
 ```bash
-sudo apt install -y openjdk-21-jre
+sudo apt install -y openjdk-25-jre
 ```
 
 Verify installation:
@@ -714,7 +714,7 @@ This setup provides a cloud-based DevOps environment with:
 
 Computer Science and Engineering
 
-GitHub: [Your GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME)
+GitHub: [Your GitHub Profile](https://github.com/Shakthivelk24)
 
 ---
 
